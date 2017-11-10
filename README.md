@@ -8,3 +8,7 @@
 
 代码非常简单，写的比较匆忙，后续添加一些tools，以便后续调用。
 
+效果：
+![Loss和准确率](http://oyspcrc3p.bkt.clouddn.com/WechatIMG27.png)
+
+![Loss可视化](http://oyspcrc3p.bkt.clouddn.com/WechatIMG28.jpeg)
